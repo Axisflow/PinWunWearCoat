@@ -1,4 +1,4 @@
-# 統神端火鍋
+# 品文穿外套
 <p align="center"><b>保持平衡，不要讓統神跌倒！</b></p>
 <p align="center"><a href="https://rogeraabbccdd.github.io/AsiaGodTone-Hotpot-Game">🎮 立刻遊玩</a></p>
 <p align="center"><b>本遊戲僅有網頁版，巴哈姆特報導的 Android 版非本人製作</b></p>
