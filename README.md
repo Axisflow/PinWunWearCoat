@@ -3,4 +3,5 @@
 <p align="center"><a href="https://axialflow.github.io/PinWunWearCoat/">🎮 立刻遊玩</a></p>
 
 ## 遊戲截圖
+<img src="start.png" height="300">
 <img src="fail.png" height="300">
